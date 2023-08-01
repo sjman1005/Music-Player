@@ -67,6 +67,48 @@ const songs = [
         cover: 'images/GigChad Theme.jpeg',
         artist: 'GigChad'
     },
+    {
+        path: 'musics/The Weeknd - After Hours.mp3',
+        displayName: 'After Hours',
+        cover: 'images/Afterhours.png',
+        artist: 'The Weekend'
+    },
+    {
+        path: 'musics/The Weeknd - Starboy.mp3',
+        displayName: 'Starboy',
+        cover: 'images/Starboy.jpeg',
+        artist: 'The Weekend'
+    },
+    {
+        path: 'musics/Kaanumbol Ninne.mp3',
+        displayName: 'Kaanumbol Ninne',
+        cover: 'images/Thamasha.jpg',
+        artist: 'Rex Vijiyan'
+    },
+    {
+        path: 'musics/Džanum - Teya dora.mp3',
+        displayName: 'Džanum',
+        cover: 'images/Dzanum.jpeg',
+        artist: 'Teya Dora'
+    },
+    {
+        path: 'musics/Akon - Right Now Na Na Na.mp3',
+        displayName: 'Right Now Na Na Na',
+        cover: 'images/Akon.jpg',
+        artist: 'Akon'
+    },
+    {
+        path: 'musics/Akon - Beautiful.mp3',
+        displayName: 'Beautiful',
+        cover: 'images/Akon.jpg',
+        artist: 'Akon'
+    },
+    {
+        path: 'musics/Eminem - Mockingbird.mp3',
+        displayName: 'Mockingbird',
+        cover: 'images/Mocking Bird.jpg',
+        artist: 'Eminem'
+    },
 ];
 
 let musicIndex = 0;
