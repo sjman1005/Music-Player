@@ -61,6 +61,12 @@ const songs = [
         cover: 'images/Beeshma Paravam.jpg',
         artist: 'Bheeshma Parvam'
     },
+    {
+        path: 'musics/GigChad Theme.mp3',
+        displayName: 'GigChad Phonk Version',
+        cover: 'images/GigChad Theme.jpeg',
+        artist: 'GigChad'
+    },
 ];
 
 let musicIndex = 0;
